@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Hardik Parmar </h2>
 
 # **About Me**
-🔭 I’m currently looking for Internships or jobs. <br>🏫 My Academic - I am Pursuing my graduation in Electronic and Communication Engineering(ECE)<br>🌱 I’m currently learning Data Science<br>💻 Check my Projects and other Repos [HERE.](https://github.com/hardikjp7?tab=repositories)
+🔭 I’m currently looking for Internships or jobs. <br>🏫 My Academic - I graduated in Electronics and Communication Engineering (ECE) in 2024.<br>🌱 I’m currently learning Machine Learning<br>💻 Check my Projects and other Repos [HERE.](https://github.com/hardikjp7?tab=repositories)
 
  
 # 💻 LANGUAGES AND TOOLS:
