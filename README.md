@@ -23,4 +23,4 @@
 </a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hardikjp7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=hardikjp7&color=yellow&style=flat)]
