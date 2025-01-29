@@ -23,4 +23,4 @@
 </a>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hardikjp7&color=yellow&style=flat)]
+[!(https://komarev.com/ghpvc/?username=hardikjp7&color=yellow&style=flat)]
