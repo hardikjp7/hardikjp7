@@ -15,6 +15,9 @@
 
 - ⚡Fun fact **AI is just like pizza everyone wants a slice, but only a few know what goes into making it!** 😆
 
+<br/>
+<br/>
+<br/>
 
 ## My Skill Set  
 <div align="center">  
