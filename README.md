@@ -1,25 +1,18 @@
-# <div align="center"> 👋 Hi, I'm Hardik ✨ </div>
-
-## <div align="center"> AI/ML developer 👨‍💻</div> 
-
 <div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width:30%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" style="width: 100%" />
 </div>  
   
 
- 
+# <div align="center">🚀 I'm Hardik, AI/ML developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently open to AI & ML fresher roles. Checkout my  
+- 🔭 I’m currently open to AI & ML fresher roles. Checkout my [Portfolio↗](https://hardikjp7.github.io/)  
   
 
-- 🏫 Electronics and Communication Engineering (ECE) Graduated in 2024.  
+- 🏫 Graduated in Electronics and Communication Engineering (ECE) in 2024.  
   
 
 - 🌱 I’m currently enhancing my skills in Machine Learning and exploring its real-world applications.  
-
-- [Portfolio↗](http://example/com)  
-
   
 
 <br/>  
@@ -75,14 +68,16 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=hardikjp7&show_icons=true&count_private=true&hide_border=false" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hardikjp7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikjp7&hide_border=false&layout=compact" align="center" /></div>  
+##
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikjp7&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
-<br>
+ ##
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hardikjp7&&style=flat-square" align="center" />
@@ -91,5 +86,7 @@
 
 <br/>  
 
+
+<br />
 
 ----
