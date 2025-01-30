@@ -1,9 +1,11 @@
+# <div align="center">🚀 I'm Hardik, AI/ML developer 👨‍💻</div>  
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" style="width: 35%" />
 </div>  
   
 
-# <div align="center">🚀 I'm Hardik, AI/ML developer 👨‍💻</div>  
+
   
 
 - 🔭 I’m currently open to AI & ML fresher roles. Checkout my [Portfolio↗](https://hardikjp7.github.io/)  
