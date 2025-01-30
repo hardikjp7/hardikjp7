@@ -1,6 +1,6 @@
 # <h1 align="center">🚀 I'm Hardik, AI/ML developer 👨‍💻
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
  
 - 🔭 I’m currently open to AI & ML fresher roles. Checkout my [Portfolio↗](https://hardikjp7.github.io/)  
   
