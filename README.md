@@ -13,7 +13,7 @@
 
 - 🌐 Check out my portfolio: [here](https://hardikjp7.github.io/)  
 
-- ⚡Fun fact **AI is just like pizza everyone wants a slice, but only a few know what goes into making it!** 😆
+- ⚡Fun fact: **AI is just like pizza everyone wants a slice, but only a few know what goes into making it!** 😆
 
 - <img src="https://komarev.com/ghpvc/?username=hardikjp7&&style=flat-square" align="center" />
 
@@ -71,11 +71,11 @@
 
 
 ## Github Stats  
-<div align="centre"><img src="https://github-readme-stats.vercel.app/api?username=hardikjp7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-##
-
-<div align="centre"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikjp7&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikjp7&show_icons=true&count_private=true&hide_border=true" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikjp7&hide_border=true&layout=compact" style="display: inline-block;" />
+</div>
+  
 
 <br/>  
 
