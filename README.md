@@ -9,11 +9,13 @@
 
 - 🏫 Electronics and Communication Engineering (ECE-2024) Graduate.
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, and AI Model Deployment**  
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, and AI**  
 
 - 🌐 Check out my portfolio: [here](https://hardikjp7.github.io/)  
 
 - ⚡Fun fact **AI is just like pizza everyone wants a slice, but only a few know what goes into making it!** 😆
+
+- <img src="https://komarev.com/ghpvc/?username=hardikjp7&&style=flat-square" align="center" />
 
 <br/>
 <br/>
@@ -80,14 +82,5 @@
 
  ##
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hardikjp7&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
