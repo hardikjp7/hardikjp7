@@ -1,4 +1,4 @@
-![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250202T050538Z&X-Amz-Expires=300&X-Amz-Signature=6dd00ceb2b083483a97a3731a719b80df4845a7e1585cd0d01ffa8958330cefa&X-Amz-SignedHeaders=host)
+![MasterHead](banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Hardik❗</h1>
